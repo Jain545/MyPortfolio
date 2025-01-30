@@ -59,18 +59,20 @@ function isElementInViewport(el) {
   );
 }
 
-
+function HumanActivity() {
+  open("https://github.com/Jain545/HumanActivity");
+}
 function movie() {
-  open("https://github.com/ShivaKrisl/Movie_Recommendation");
+  open("https://github.com/Jain545/Movie_Recommendation");
 }
 function movieLive() {
   open("https://movie-recommendation-system-1950-2016.onrender.com/?");
 }
 function iris() {
-  open("https://github.com/ShivaKrisl/Iris_Classification");
+  open("https://github.com/Jain545/iris_classification");
 }
 function irisLive() {
-  open("https://shivakrishna.pythonanywhere.com/?");
+  open("");
 }
 
 
