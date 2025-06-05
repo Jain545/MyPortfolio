@@ -63,7 +63,7 @@ function HumanActivity() {
   open("https://github.com/Jain545/HumanActivity");
 }
 function movie() {
-  open("https://github.com/Jain545/Movie_Recommendation");
+  open("");
 }
 
 function iris() {
