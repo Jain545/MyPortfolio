@@ -65,9 +65,7 @@ function HumanActivity() {
 function movie() {
   open("https://github.com/Jain545/Movie_Recommendation");
 }
-function movieLive() {
-  open("https://movie-recommendation-system-1950-2016.onrender.com/?");
-}
+
 function iris() {
   open("https://github.com/Jain545/iris_classification");
 }
