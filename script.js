@@ -63,14 +63,14 @@ function HumanActivity() {
   open("https://github.com/Jain545/HumanActivity");
 }
 function movie() {
-  open("");
+  open("https://github.com/Jain545/Movie_Recommendation");
 }
 
 function iris() {
   open("https://github.com/Jain545/iris_classification");
 }
 function irisLive() {
-  open("https://github.com/Jain545/Movie_Recommendation");
+  open("");
 }
 
 
